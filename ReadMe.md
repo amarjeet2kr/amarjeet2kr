@@ -2,6 +2,7 @@
 
 <img align="right" alt="GIF" src="https://github.com/amarjeet2kr/amarjeet2kr/blob/main/coder.gif?raw=true" width="400" height="220" />
 
+## I'm a Developer & Coder!!
 👀 I’m interested in Java Backend Development, Web Development, and Mobile Application Development.<br>🌱 I’m currently learning React.<br>💞️ I’m looking to collaborate on Open source.<br>💬 Ask me about ... Anything<br>⚡ Fun fact: I speak 4 languages (Hindi, English, Maithili, and Kannada)<br>📫 How to reach me via mail amarjeet2kr@gmail.com
 
 ## 🌐 Socials:
