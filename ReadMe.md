@@ -9,7 +9,7 @@
 💞️ I’m looking to collaborate on Open source.<br>
 💬 Ask me about ... Anything<br>
 ⚡ Fun fact: I speak 4 languages (Hindi, English, Maithili, and Kannada)<br>
-📫 How to reach me via <br/>
+📫 How to reach me via amarjeet2kr@gmail.com <br/>
 
 <a href="mailto:amarjeet2kr@gmail.com?subject=from_github">![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?logo=Gmail&logoColor=white)</a>
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/amar.jeet_official) 
