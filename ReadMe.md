@@ -26,6 +26,24 @@
 
 # 📊 GitHub Stats:
 
+<div align="center">
+
+### Profile Views
+![Visitor Count](https://profile-counter.glitch.me/{lucifertrj}/count.svg)
+ 
+[![wakatime](https://wakatime.com/badge/user/ddf14465-c881-4ebe-ba15-7d5f683686e4.svg)](https://wakatime.com/@ddf14465-c881-4ebe-ba15-7d5f683686e4)
+<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=53137451d&left_color=gray&right_color=darkgreen) -->
+  
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-458%20hrs%2018%20mins-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.4%20million%20lines%20of%20code-blue)
+
+</div>
+
+
+
+
 <img align="left" width="45%" src = "https://github-readme-stats.vercel.app/api?username=amarjeet2kr&theme=radical&hide_border=false&include_all_commits=false&count_private=false"/>
 <img width="49%" src = "https://github-readme-streak-stats.herokuapp.com/?user=amarjeet&theme=radical&hide_border=false"/>
 <img width="45%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=amarjeet2kr&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
