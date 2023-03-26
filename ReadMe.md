@@ -1,8 +1,6 @@
 ### Hello Everyone, I'm Amarjeet 👋
 
-<img align="right" alt="GIF" src="https://github.com/amarjeet2kr/amarjeet2kr/blob/main/coder.gif?raw=true" width="400" height="220" />
-
-# 💫 About Me:
+<img align="right" alt="GIF" src="https://github.com/amarjeet2kr/amarjeet2kr/blob/main/coder.gif?raw=true" width="400" height="250" />
 
 👀 I’m interested in Java Backend Development, Web Development, and Mobile Application Development.<br>🌱 I’m currently learning React.<br>💞️ I’m looking to collaborate on Open source.<br>💬 Ask me about ... Anything<br>⚡ Fun fact: I speak 4 languages (Hindi, English, Maithili, and Kannada)<br>📫 How to reach me via mail amarjeet2kr@gmail.com
 
@@ -20,21 +18,9 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=amarjeet2kr&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=amarjeet2kr&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=amarjeet2kr&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-## 🐦 Latest Tweet
-
-[![](https://gtce.itsvg.in/api?username=amarjeet2k)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
 ### ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 
