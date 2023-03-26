@@ -11,9 +11,7 @@
 ⚡ Fun fact: I speak 4 languages (Hindi, English, Maithili, and Kannada)<br>
 📫 How to reach me via <br/>
 
-<a href="mailto:amarjeet2kr@gmail.com?subject=from_github">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
-<a href="https://www.instagram.com/amar.jeet_official">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
-<a href="https://www.linkedin.com/in/amarjeetk/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="mailto:amarjeet2kr@gmail.com?subject=from_github">![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?logo=Gmail&logoColor=white)</a>
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/amarjeet2kr) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/amarjeet2k) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCNgLtXWrxp70bJ6-Utf9o2A) 
