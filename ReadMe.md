@@ -12,12 +12,13 @@
 📫 How to reach me via <br/>
 
 <a href="mailto:amarjeet2kr@gmail.com?subject=from_github">![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?logo=Gmail&logoColor=white)</a>
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/amar.jeet_official) 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/amarjeet2kr) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/amarjeet2k) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCNgLtXWrxp70bJ6-Utf9o2A) 
 [![LeetCode](https://img.shields.io/badge/LeetCode-%231877F2.svg?logo=LeetCode&logoColor=white)](https://leetcode.com/amarjeet2kr)
-<a href="https://wa.me/6363343001">![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)</a>
-<a href="https://telegram.me/amarjeet2kr">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
+<a href="https://wa.me/6363343001">![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366.svg?logo=WhatsApp&logoColor=white)</a>
+<a href="https://telegram.me/amarjeet2kr">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0.svg?logo=Telegram&logoColor=white)</a>
 
 # 💻 Tech Stack:
 
