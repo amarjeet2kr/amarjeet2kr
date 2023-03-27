@@ -27,7 +27,7 @@
 # 📊 GitHub Stats:
 
 <img align="left" width="45%" src = "https://github-readme-stats.vercel.app/api?username=amarjeet2kr&theme=radical&hide_border=false&include_all_commits=false&count_private=false"/>
-<img width="49%" src = "https://github-readme-streak-stats.herokuapp.com/?user=amarjeet&theme=radical&hide_border=false"/>
+<img width="49%" src = "https://github-readme-streak-stats.herokuapp.com/?user=amarjeet2kr&theme=radical&hide_border=false"/>
 <img width="45%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=amarjeet2kr&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
 <p align="right">
 
