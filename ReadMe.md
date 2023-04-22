@@ -5,7 +5,7 @@
 ## I'm a Developer & Coder!!
 
 👀 I’m interested in Java Backend Development, Web Development, and Mobile Application Development.<br>
-🌱 I’m currently learning React.<br>
+🌱 I’m currently learning Java Backend Technologies and Nextjs.<br>
 💞️ I’m looking to collaborate on Open source.<br>
 💬 Ask me about ... Anything<br>
 ⚡ Fun fact: I speak 4 languages (Hindi, English, Maithili, and Kannada)<br>
